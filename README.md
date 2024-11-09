@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gpmilliken
-- 👀 I’m interested in Cloud native SaaS applications, SQL, CMDB and Outage Avoidance
-- 🌱 I’m currently learning AWS Lambda, Boto3, PowerShell
+- 👀 I’m interested in Cloud native apps, Snowflake, AI, SaaS applications, 
+- 🌱 I’m currently learning about data, AI, Snowflake
+- 👀 I have domain expertise in enterporise systems, SQL databases, CMDB and Outage Avoidance
 - 💞️ I’m looking to collaborate on all the above topics
 - 📫 How to reach me ... you already know...
 
