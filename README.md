@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gpmilliken
-- 👀 I’m interested in Cloud native apps, Snowflake, AI, SaaS applications, 
+- 👀 I’m interested in Cloud native apps, Snowflake, AI, and startups.
+- 👀 Life long coder, started with BASIC Pascal & C, then 8086 ASM, SQL & PL/SQL, python (wee bit)
 - 🌱 I’m currently learning about data, AI, Snowflake
 - 👀 I have domain expertise in enterprise systems (legacy & modern), SaaS operations, SQL databases, CMDBs and Outage Avoidance
 - 💞️ I’m looking to collaborate on all the above topics & more
