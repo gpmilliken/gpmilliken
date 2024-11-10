@@ -7,7 +7,7 @@
 - 👀 I have been an Oracle DBA and PL/SQL / APEX devleoper for much of the time as well. 
 - 💞️ I’m looking to collaborate on all the above topics & more
 - 📫 I'm currently active in the Snowflake community and a founder of the SRE Project Inc.
-- 📫 I'm an avid fisherman and hunter (fresh & salt h20 / deer, elk and gane birds)
+- 📫 I'm an avid fisherman and hunter (fresh & salt h20 / deer, elk and game birds)
 
 
 <!---
