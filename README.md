@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gpmilliken
+- 👋 Hi, I’m @gpmilliken (George P. Milliken)
 - 👀 I’m interested in Cloud native apps, Snowflake, AI, and startups.
 - 👀 Life long coder, started with BASIC Pascal & C, then 8086 ASM, SQL & PL/SQL, python (wee bit)
 - 🌱 I’m currently learning about data, AI, Snowflake
