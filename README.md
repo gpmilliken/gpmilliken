@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gpmilliken (George P. Milliken)
 - 👀 I’m interested in Cloud native apps, Snowflake, AI, and startups.
-- 👀 Life long coder, started with BASIC Pascal & C, then 8086 ASM, SQL & PL/SQL, APEX, python (wee bit)
+- 👀 Life long coder, started with BASIC Pascal & C, then 8086 ASM, SQL & PL/SQL, APEX, nodejs, python (wee bit)
 - 🌱 I’m currently learning about data engineering, leveraging LLM AI on data sets, and Snowflake
 - 👀 I have expertise in enterprise systems (legacy & modern), SaaS operations, SQL databases, CMDBs and Outage Avoidance
 - 👀 I have spent 1/3rd of my career on startups, independent consulting, and working in Global 1000 organizations
